@@ -8,7 +8,7 @@
 
 import RxSwift
 import RxCocoa
-
+import QuartzCore
 
 public extension ThemeProxy where Base: CAShapeLayer {
 
